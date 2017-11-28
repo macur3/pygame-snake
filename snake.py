@@ -1,7 +1,7 @@
 '''
 Snake game.
 Authors:
-<insert the names of your teammates here>
+Waylen Mitchell and Marc Curry
 '''
 
 import pygame
